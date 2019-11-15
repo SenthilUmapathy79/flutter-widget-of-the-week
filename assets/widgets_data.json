@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Week 1 - Some controls",
+    "ytlink": "https://youtube.com",
+    "routeName": "/week1"
+  },
+  {
+    "title": "Week 2 - Some other controls",
+    "ytlink": "https://youtube.com",
+    "routeName": "/week2"
+  }
+]

@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
         // When navigating to the "/" route, build the FirstScreen widget.
         '/': (context) => HomeScreen(),
         // When navigating to the "/second" route, build the SecondScreen widget.
-        '/week1': (context) => Week1HomeScreen(),
+        Week1HomeScreen.routeName: (context) => Week1HomeScreen(),
       },
       //home: MyHomePage(title: 'Flutter Widget of the week'),
     );
